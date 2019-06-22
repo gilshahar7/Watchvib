@@ -1,0 +1,9 @@
+Package: com.gilshahar7.watchvib
+Name: Watchvib
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: fuck
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks
